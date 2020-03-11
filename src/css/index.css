@@ -7,3 +7,12 @@ html {
 img {
   max-width: 100%;
 }
+.Undertekst {
+  color: rgb(97, 9, 9);
+}
+.panel {
+  text-align: center;
+  background-color: rgb(214, 214, 214);
+  margin: 5% 20%;
+  padding: 5% 0;
+}
